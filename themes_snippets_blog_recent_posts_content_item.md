@@ -1,7 +1,8 @@
 # BlogRecentPostsContentItem Snippet
 
 ### Available Variables
-
+|||
+|---|---|
 | `%%GLOBAL_Thumbnail%%` |
 | `%%GLOBAL_RecentPostUrl%%` |
 | `%%GLOBAL_RecentPostTitle%%` |
