@@ -1,4 +1,4 @@
-# CheckoutMailFormatPreference Snippet
+# CheckoutMailFormatPreference   Snippet
 
 ### Available Variables
 |||
